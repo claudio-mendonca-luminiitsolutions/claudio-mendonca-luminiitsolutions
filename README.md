@@ -1,3 +1,6 @@
+<a href="https://claudiomendonca.eng.br"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=header"/></a>
+<a href="https://claudiomendonca.eng.br"><img align="right" alt="Developer vector created by storyset - www.freepik.com" height="330" src="https://raw.githubusercontent.com/claudio-mendonca-luminiitsolutions/claudio-mendonca-luminiitsolutions/refs/heads/main/img/capa01.jpg"></a>
+
 ## Hi there 👋
 
 <!--
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</details>
+<a href="https://claudiomendonca.eng.br"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=footer"/></a>
